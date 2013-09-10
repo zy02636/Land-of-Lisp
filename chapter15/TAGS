@@ -1,0 +1,12 @@
+
+game.lisp,296
+(defparameter *num-player* 2,13
+(defparameter *max-dice* 3,43
+(defparameter *board-size* 4,71
+(defparameter *board-hexnum* 5,101
+(defun board-array 7,162
+(defun gen-board 10,241
+(defun player-letter 14,386
+(defun draw-board 17,436
+(defun game-tree 27,760
+(defun add-passing-move 36,963
